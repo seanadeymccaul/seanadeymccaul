@@ -1,12 +1,13 @@
 <h1>Hi, I'm Sean! <br/>Computer Science Student and Aspiring Software Developer 👨🏻‍💻</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Projects:</h2>
 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Catering Bidding App</b>
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+- <b>TalkHQ Mobile App</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+- <b>Maze Designer Application</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
