@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sean! <br/>Computer Science Student and Aspiring Software Developer </h1>
+<h1>Hi, I'm Sean! <br/>Computer Science Student and Aspiring Software Developer 👨🏻‍💻</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
