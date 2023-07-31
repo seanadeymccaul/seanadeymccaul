@@ -2,6 +2,7 @@
 
 <h2>Projects:</h2>
 
+- [Realtor Console App (C#)](https://github.com/seanadeymccaul/realtor-console-app)
 - [Grid Conquest Game (Python)](https://github.com/seanadeymccaul/grid-conquest-game)
 
 <!--
