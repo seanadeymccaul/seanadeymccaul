@@ -2,6 +2,9 @@
 
 <h2>Projects:</h2>
 
+- [Grid Conquest Game (Python)](https://github.com/seanadeymccaul/grid-conquest-game)
+
+<!--
 - <b>Catering Bidding App</b>
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
 - <b>TalkHQ Mobile App</b>
@@ -10,7 +13,6 @@
 - <b>Maze Designer Application</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
