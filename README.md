@@ -6,8 +6,8 @@
   - [Front End (React)](https://github.com/seanadeymccaul/cateredby-front-end)
   - [Back End (Node)](https://github.com/seanadeymccaul/talkhq-back-end)
 - TalkHQ Mobile App
-  - [Front End (React)](https://github.com/seanadeymccaul/talkhq-front-end)
-  - [Back End (Node)](https://github.com/seanadeymccaul/talkhq-back-end)
+  - [Front End (React)](https://github.com/nkuch1/TalkHQApp)
+  - [Back End (Node)](https://github.com/nkuch1/server-test)
 - [Maze Design Tool (Java)](https://github.com/seanadeymccaul/maze-design-tool)
 - [Sugiyama Graph Layout (F#)](https://github.com/seanadeymccaul/sugiyama-graph-layout)
 - [Space Invaders Game (C++)](https://github.com/seanadeymccaul/space-invaders-game)
