@@ -2,14 +2,11 @@
 
 <h2>Projects:</h2>
 
-- CateredBy Mobile App
-  - [Front End (React)](https://github.com/seanadeymccaul/cateredby-front-end)
-  - [Back End (Node)](https://github.com/seanadeymccaul/talkhq-back-end)
-- TalkHQ Mobile App
-  - [Front End (React)](https://github.com/nkuch1/TalkHQApp)
-  - [Back End (Node)](https://github.com/nkuch1/server-test)
+- [Auction Mobile App (React)](https://github.com/seanadeymccaul/auction-mobile-app)
+- [TalkHQ Mobile App (React)](https://github.com/seanadeymccaul/talkhq-mobile-app)
 - [Maze Design Tool (Java)](https://github.com/seanadeymccaul/maze-design-tool)
 - [Sugiyama Graph Layout (F#)](https://github.com/seanadeymccaul/sugiyama-graph-layout)
 - [Space Invaders Game (C++)](https://github.com/seanadeymccaul/space-invaders-game)
 - [Realtor Console App (C#)](https://github.com/seanadeymccaul/realtor-console-app)
+- [Top Charts Finder (Python)](https://github.com/seanadeymccaul/top-charts-finder)
 - [Grid Conquest Game (Python)](https://github.com/seanadeymccaul/grid-conquest-game)
